@@ -1,0 +1,159 @@
+2021-11-23 19:20:31,984 DEBUG server.py Была вызвана функция create_arg_parser c параметрами (<__main__.Server object at 0x7f9b03c49070>,), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:20:31,984 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-23 19:20:41,096 INFO server.py Установлено соедение с ПК ('127.0.0.1', 56682)
+2021-11-23 19:20:41,096 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637684441.095888, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:20:41,096 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637684441.095888, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:20:41,096 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:20:41,096 DEBUG server.py Соединение с клиентом ('127.0.0.1', 56682) закрывается.
+2021-11-23 19:28:40,382 DEBUG server.py Была вызвана функция create_arg_parser c параметрами (<__main__.Server object at 0x7f260c485070>,), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:28:40,382 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-23 19:33:59,682 CRITICAL config_server_log.py Критическая ошибка
+2021-11-23 19:33:59,683 ERROR config_server_log.py Ошибка
+2021-11-23 19:33:59,683 DEBUG config_server_log.py Отладочная информация
+2021-11-23 19:33:59,683 INFO config_server_log.py Информационное сообщение
+2021-11-23 19:34:04,463 DEBUG server.py Была вызвана функция create_arg_parser c параметрами (<__main__.Server object at 0x7f40c8aa2070>,), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:34:04,463 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-11-23 19:34:18,099 CRITICAL config_server_log.py Критическая ошибка
+2021-11-23 19:34:18,099 ERROR config_server_log.py Ошибка
+2021-11-23 19:34:18,099 DEBUG config_server_log.py Отладочная информация
+2021-11-23 19:34:18,100 INFO config_server_log.py Информационное сообщение
+2021-11-23 19:47:36,789 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57372)
+2021-11-23 19:47:36,789 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686056.789031, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:47:36,789 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686056.789031, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:47:36,789 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:47:36,789 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57372) закрывается.
+2021-11-23 19:47:36,789 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57370)
+2021-11-23 19:47:36,790 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686056.7900085, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:47:36,790 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686056.7900085, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:47:36,790 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:47:36,790 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57370) закрывается.
+2021-11-23 19:47:36,791 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57376)
+2021-11-23 19:47:36,791 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686056.789036, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:47:36,791 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686056.789036, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:47:36,791 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:47:36,791 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57376) закрывается.
+2021-11-23 19:47:36,791 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57378)
+2021-11-23 19:47:36,791 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686056.7896192, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:47:36,792 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686056.7896192, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:47:36,792 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:47:36,792 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57378) закрывается.
+2021-11-23 19:47:36,792 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57380)
+2021-11-23 19:47:36,792 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686056.7904823, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:47:36,792 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686056.7904823, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:47:36,792 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:47:36,792 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57380) закрывается.
+2021-11-23 19:47:36,793 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57382)
+2021-11-23 19:47:36,793 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686056.7910874, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:47:36,793 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686056.7910874, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:47:36,793 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:47:36,793 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57382) закрывается.
+2021-11-23 19:47:36,793 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57384)
+2021-11-23 19:47:36,793 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686056.7918036, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:47:36,794 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686056.7918036, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:47:36,794 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:47:36,794 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57384) закрывается.
+2021-11-23 19:50:00,146 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57404)
+2021-11-23 19:50:00,146 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686200.1462505, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:00,146 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686200.1462505, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:00,146 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:00,146 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57404) закрывается.
+2021-11-23 19:50:00,147 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57402)
+2021-11-23 19:50:00,147 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686200.1468363, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:00,147 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686200.1468363, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:00,147 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:00,147 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57402) закрывается.
+2021-11-23 19:50:00,147 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57408)
+2021-11-23 19:50:00,147 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686200.1462727, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:00,148 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686200.1462727, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:00,148 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:00,148 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57408) закрывается.
+2021-11-23 19:50:00,148 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57410)
+2021-11-23 19:50:00,148 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686200.1463747, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:00,148 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686200.1463747, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:00,148 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:00,148 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57410) закрывается.
+2021-11-23 19:50:00,148 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57412)
+2021-11-23 19:50:00,149 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686200.1466293, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:00,149 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686200.1466293, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:00,149 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:00,149 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57412) закрывается.
+2021-11-23 19:50:00,151 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57414)
+2021-11-23 19:50:00,151 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686200.1513975, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:00,151 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686200.1513975, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:00,152 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:00,152 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57414) закрывается.
+2021-11-23 19:50:00,157 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57416)
+2021-11-23 19:50:00,157 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686200.1571653, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:00,157 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686200.1571653, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:00,157 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:00,157 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57416) закрывается.
+2021-11-23 19:50:28,293 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57418)
+2021-11-23 19:50:28,293 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686228.293183, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:28,294 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686228.293183, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:28,294 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:28,294 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57418) закрывается.
+2021-11-23 19:50:28,296 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57420)
+2021-11-23 19:50:28,297 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686228.2965288, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:28,297 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686228.2965288, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:28,297 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:28,297 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57420) закрывается.
+2021-11-23 19:50:28,297 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57422)
+2021-11-23 19:50:28,297 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686228.2973366, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:28,298 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686228.2973366, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:28,298 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:28,298 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57422) закрывается.
+2021-11-23 19:50:28,298 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57424)
+2021-11-23 19:50:28,298 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686228.297657, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:28,298 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686228.297657, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:28,298 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:28,298 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57424) закрывается.
+2021-11-23 19:50:28,299 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57426)
+2021-11-23 19:50:28,299 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686228.2977052, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:28,299 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686228.2977052, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:28,299 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:28,299 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57426) закрывается.
+2021-11-23 19:50:28,299 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57428)
+2021-11-23 19:50:28,299 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686228.2991812, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:28,300 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686228.2991812, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:28,300 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:28,300 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57428) закрывается.
+2021-11-23 19:50:28,303 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57430)
+2021-11-23 19:50:28,304 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686228.3040562, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:50:28,304 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686228.3040562, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:50:28,305 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:50:28,305 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57430) закрывается.
+2021-11-23 19:51:03,986 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57432)
+2021-11-23 19:51:03,993 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686263.9865797, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:51:03,994 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686263.9865797, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:51:03,994 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:51:03,994 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57432) закрывается.
+2021-11-23 19:51:03,994 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57434)
+2021-11-23 19:51:03,994 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686263.9886346, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:51:03,994 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686263.9886346, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:51:03,994 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:51:03,994 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57434) закрывается.
+2021-11-23 19:51:03,994 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57436)
+2021-11-23 19:51:03,994 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686263.9894917, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:51:03,995 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686263.9894917, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:51:03,995 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:51:03,995 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57436) закрывается.
+2021-11-23 19:51:03,995 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57438)
+2021-11-23 19:51:03,995 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686263.9895, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:51:03,995 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686263.9895, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:51:03,995 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:51:03,995 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57438) закрывается.
+2021-11-23 19:51:03,996 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57440)
+2021-11-23 19:51:03,996 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686263.9905179, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:51:03,996 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686263.9905179, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:51:03,996 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:51:03,996 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57440) закрывается.
+2021-11-23 19:51:03,996 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57442)
+2021-11-23 19:51:03,996 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686263.9916847, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:51:03,997 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686263.9916847, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:51:03,997 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:51:03,997 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57442) закрывается.
+2021-11-23 19:51:04,000 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57444)
+2021-11-23 19:51:04,000 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1637686264.0004437, 'user': {'account_name': 'Guest'}}
+2021-11-23 19:51:04,001 DEBUG server.py Была вызвана функция process_client_message c параметрами (<__main__.Server object at 0x7f9b03c49070>, {'action': 'presence', 'time': 1637686264.0004437, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля __main__. Вызов из функции Server().main().Вызов из функции main
+2021-11-23 19:51:04,001 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-11-23 19:51:04,001 DEBUG server.py Соединение с клиентом ('127.0.0.1', 57444) закрывается.
